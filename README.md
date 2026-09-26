@@ -2,7 +2,7 @@
 
 Welcome to my Data Analytics Portfolio.
 
-I am a Business Informatics student developing practical skills in data analysis using Excel, SQL, Power BI and Python.
+I am a Information Systems student developing practical skills in data analysis using Excel, SQL, Power BI and Python.
 
 This repository documents my learning progress and practical projects.
 
